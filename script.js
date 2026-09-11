@@ -1,2 +1,2 @@
 // Initial empty file
-document.getElementById("timeMsg").innerText = "Hello from Team Updated!";
+document.getElementById("timeMsg").innerText = "Current time feature added!";
